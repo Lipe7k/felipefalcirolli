@@ -15,6 +15,7 @@ body {
     align-items: center;
     font-family: 'Open Sans', sans-serif;
     background-image: url(/lofi_wallpaper_by_nethervision_dgn3sad-fullview.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
